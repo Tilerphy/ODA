@@ -1,0 +1,21 @@
+{
+  "name": "oda",
+  "version": "1.0.0",
+  "description": "One Day Association",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tilerphy",
+  "license": "MIT",
+  "devDependencies": {
+    "express": "^4.15.2",
+    "moment": "^2.18.1",
+    "mysql": "^2.13.0",
+    "node-uuid": "^1.4.8",
+    "swig": "^1.4.2"
+  }
+}
